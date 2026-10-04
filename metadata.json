@@ -1,0 +1,6 @@
+{
+  "name": "Apex Football League Hub",
+  "description": "Comprehensive football league platform featuring team hubs, live match statistics with tactical lineups, player rankings, historical seasons, calendar of events, notifications, and admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
